@@ -1,5 +1,8 @@
 # MyCalculator
 
+working demo - https://github.com/user-attachments/assets/83e3198e-99b4-477b-b952-f4825c6c0403
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
